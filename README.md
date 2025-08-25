@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,10:FCAF45,30:F77737,75:C13584,100:405DE6&height=100&section=header&text=&fontSize=0" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Pusparaj+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%92%A1;Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Prince+Naware+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%92%A1;Welcome+to+My+Digital+Universe!+%F0%9F%8C%8C" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -189,7 +189,7 @@
 ```javascript
 class PusparajDeveloper {
   constructor() {
-    this.name = "Pusparaj";
+    this.name = "Prince Naware";
     this.title = "Full Stack Developer";
     this.location = "India 🇮🇳";
     this.languages = ["JavaScript", "Python", "TypeScript", "Java", "C++"];
