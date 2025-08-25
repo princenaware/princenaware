@@ -25,21 +25,21 @@
 <br><br><br>
 
 <div align="center">
-  <a href="mailto:Kalvinshah@hotmail.com">
+  <a href="mailto:princenaware77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
   </a>
-  <a href="https://pusparaj99op.github.io/">
+  <!-- <a href="https://pusparaj99op.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://github.com/Pusparaj99op">
+  </a> -->
+  <a href="https://github.com/princenaware">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
   </a>
-  <a href="https://www.linkedin.com/in/pranaygajbhiye/">
+  <a href="linkedin.com/in/prince-naware-a38b3437a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
   </a>
-  <a href="https://www.instagram.com/pranaygajbhiye777/">
+  <!-- <a href="https://www.instagram.com/pranaygajbhiye777/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" />
-  </a>
+  </a> -->
   <!-- <a href="https://www.youtube.com/@AnonymousRingtonesYT">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010" /> -->
   </a>
