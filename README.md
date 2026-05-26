@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💡 A Little About Me:
 🎓 B.Tech CSE Student <br><br>☕ Turning ideas into projects and building strong fundamentals along the way.<br><br>🌱 Currently learning:<br>→ Data Structures & Algorithms  <br>→ Full Stack Development<br><br>💻 Tech explored:<br>Java • C • C++ • Python • HTML • CSS<br><br>🛠️ Projects:<br>→ Library Management System  <br>→ Passport String Analyzer  <br>→ Quiz Game  <br>→ More coming soon...<br><br>🤝 Looking for:<br>Guidance, collaboration opportunities, developer connections and chances to learn from experienced people.<br><br>💬 Ask me about:<br>Java • Beginner Projects • Coding Journey • Learning Strategy<br><br>⚡ Motto:<br>Learn → Build → Improve → Repeat
 
 
